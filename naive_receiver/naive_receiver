@@ -1,0 +1,4 @@
+encountered HardhatError: HH700: Artifact for contract {#placeholder} not found
+
+Solution:
+change {#placeholder} to the name of the contract in the AttackNaiveReceiver.sol file
